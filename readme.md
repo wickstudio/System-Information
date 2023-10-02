@@ -12,10 +12,7 @@ Wick is a versatile command-line tool designed to provide detailed insights into
 
 ## Installation
 
-1. **Clone the Repository or Download the ZIP File:**
-
-   ```bash
-   git clone https://github.com/بعد ما مخلي/wick.git
+1. **Clone the Repository or Download the ZIP File
 2. **Install Dependencies:**
 
    Execute the `install.bat` script to install the necessary Python packages.
